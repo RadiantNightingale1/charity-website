@@ -137,5 +137,9 @@ include("connection.php");
     <div class="footer">
         <p>&copy; 2023. All rights reserved. Radiant Solutions</p>
     </div>
+<script>
+  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>
